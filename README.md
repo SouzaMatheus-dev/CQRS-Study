@@ -104,7 +104,7 @@ Com isso, basta fazer o `up` do projeto e acessar os endpoints no Swagger via `h
 
 ## Encerrando os containers
 
-To stop the containers, run the following command:
+Para parar os contêineres, execute o seguinte comando:
 
 ```bash
 docker-compose down
@@ -113,7 +113,7 @@ docker-compose down
 ---
 
 ### Notas adicionais:
-- Instructions for **Docker Compose** to run both SQL Server and the API.
-- Detailed steps for applying **Entity Framework** migrations directly from the command line.
-- Information on how to connect to SQL Server using **SSMS** or **Azure Data Studio**.
-- Added troubleshooting section to help resolve common issues. 
+- Instruções para **Docker Compose** executar o SQL Server e a API.
+- Etapas detalhadas para aplicar migrações do **Entity Framework** diretamente da linha de comando.
+- Informações sobre como se conectar ao SQL Server usando **SSMS** ou **Azure Data Studio**.
+- Adicionada seção de solução de problemas para ajudar a resolver problemas comuns.
